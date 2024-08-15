@@ -5,9 +5,14 @@
 ## Actividad 1
 - p01_HolaMundo
 - p02_AreaCirculo
-- p03_AreaTriangulo.java
-- p04_PagoTrabajador.java
+- p03_AreaTriangulo
+- p04_PagoTrabajador
+- p05_OperacionesMatematicas
+- p06_PromedioCalificaciones
+- p07_OperadoresAsignacion
+- p08_FuncionesTrigonométricas
+- p09_Dividir-en-cifras
 
 ## Actividad 2
 - Programa 4
-bla bla bla
+bla bla blaf
