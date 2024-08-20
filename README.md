@@ -12,6 +12,12 @@
 - p07_OperadoresAsignacion
 - p08_FuncionesTrigonométricas
 - p09_Dividir-en-cifras
+- p10_HipotenusaTriangulo
+- p11_CalcularAngulo
+- p12_ConvertirTemperatura
+- p13_VolumenCilindro
+- p14_ClaculoTiempo
+- p15_ConvertirADolares
 
 ## Actividad 2
 - Programa 4

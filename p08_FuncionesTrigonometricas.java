@@ -13,6 +13,6 @@ public class p08_FuncionesTrigonometricas {
         double cos = Math.cos(angulor);
         double tan = Math.tan(angulor);
 
-        System.out.println(String.format("El ángulo en Radianes es: %.2f, Seno: %.2f, Coseno: %.2f, Tangente: &.2f", angulor,sen,cos,tan)); 
+        System.out.println(String.format("El ángulo en Radianes es: %.2f, Seno: %.2f, Coseno: %.2f, Tangente: %.2f", angulor,sen,cos,tan)); 
     }
 }

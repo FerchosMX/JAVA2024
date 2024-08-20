@@ -6,7 +6,7 @@ public class p09_DividrEnCifras {
         System.out.print("\033[H\033[2J"); System.out.flush();
         int num,unidades,decenas,centenas;
 
-        System.out.println("Dame un umero entero de 3 cifras: ");
+        System.out.println("Dame un numero entero de 3 cifras: ");
 
         num = new Scanner(System.in).nextInt();
 
