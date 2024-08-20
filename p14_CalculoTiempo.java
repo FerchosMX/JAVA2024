@@ -8,6 +8,8 @@ import java.util.Scanner;
 
 public class p14_CalculoTiempo {
     public static void main(String[] args) {
+        System.out.print("\033[H\033[2J"); System.out.flush();
+
         float horas, min, seg, dias;
 
         System.out.println("\nDame la cantidad en horas: ");
