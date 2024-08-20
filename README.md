@@ -20,6 +20,10 @@
 - p13_VolumenCilindro
 - p14_ClaculoTiempo
 - p15_ConvertirADolares
-bla bla blaf
 
 ## Actividad 3
+- p16_TrabajandoEnteros
+- p17_TrabajandoFlotantes
+- p18_TrabajandoConstantes
+- p19_TrabajandoCaracteres
+- p20_ConversionTipos
