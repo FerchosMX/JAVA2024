@@ -21,9 +21,26 @@
 - p14_ClaculoTiempo
 - p15_ConvertirADolares
 
-## Actividad 3
+## Actividad 3 - Trabajando con Numeros
 - p16_TrabajandoEnteros
 - p17_TrabajandoFlotantes
 - p18_TrabajandoConstantes
 - p19_TrabajandoCaracteres
 - p20_ConversionTipos
+
+## Actividad 4 - Ejercicios Condicionalidad pt1
+- p21_VerificarNumero
+- p22_VerificarSuma
+- p23_ConvertirTemperatura
+- p24_PagaTrabajadorV2
+
+## Actividad 5 - Ejercicios Condicionalidad pt2
+- p25_EstacionesAño
+- p26_TipoAngulo
+- p27_AceptarEstudiantes
+- p28_LeyDeNewton
+
+
+Key shortcuts:
+- option + shift + flecha Abajo = Duplicar la linea actual hacia abajo
+- option + flechas = Mover libremente una linea
