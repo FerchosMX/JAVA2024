@@ -40,6 +40,11 @@
 - p27_AceptarEstudiantes
 - p28_LeyDeNewton
 
+# Actividad 6 - Ejercicios  Condicionalidad pt3
+- p29_Calculadora
+- p30_DiaSemana
+- p31_NumerosRomanos
+- p32_PagoEstacionamiento
 
 Key shortcuts:
 - option + shift + flecha Abajo = Duplicar la linea actual hacia abajo
