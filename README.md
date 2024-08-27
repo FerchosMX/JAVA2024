@@ -46,6 +46,14 @@
 - p31_NumerosRomanos
 - p32_PagoEstacionamiento
 
+# Práctica 2 - Ejecución Condicional
+- p33_NumerosConsecutivos
+- p34_NumeroMayor
+- p35_ContinentesMundo
+- p36_CompraPizza
+- p37_CalculoNotas
+- p38_AceptarEstudiante-v2
+
 Key shortcuts:
 - option + shift + flecha Abajo = Duplicar la linea actual hacia abajo
 - option + flechas = Mover libremente una linea
