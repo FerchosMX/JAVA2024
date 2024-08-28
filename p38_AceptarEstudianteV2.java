@@ -10,7 +10,8 @@ public class p38_AceptarEstudianteV2 {
         
         String nombre;
         char sexo;
-        int edad,cal1,cal2,cal3;
+        int edad,cal1,cal2,cal3,prom;
+
 
         System.out.println("--- Universidad Chilaquiles ---");
         System.out.print("      Introduzca su nombre: ");
@@ -26,6 +27,17 @@ public class p38_AceptarEstudianteV2 {
         cal2 = scanner.nextInt();
         System.out.println("3ra calificación: ");
         cal3 = scanner.nextInt();
+
+        prom = (cal1+cal2+cal3)/3;
+
+        if (sexo = 'M') {
+            System.out.println("Lo lamento pero no estás aceptado");
+            } else if (edad<21) {
+                System.out.println("Lo lamento pero no estás aceptado");
+            } else if (prom<8) {
+                System.out.println("Lo lamento pero no estás aceptado");
+            }
+        }
     }
     
 }

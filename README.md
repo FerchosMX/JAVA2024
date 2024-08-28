@@ -54,6 +54,15 @@
 - p37_CalculoNotas
 - p38_AceptarEstudiante-v2
 
+# Actividad 7 - Ejecición repetitiva pt1
+- p39_Numeros1al100
+- p40_Numeros100al1
+- p41_ProcesaCalificaciones
+
 Key shortcuts:
 - option + shift + flecha Abajo = Duplicar la linea actual hacia abajo
 - option + flechas = Mover libremente una linea
+
+Código constante: 
+- System.out.print("\033[H\033[2J"); System.out.flush(); 
+(Elimina el texto de la terminal)
