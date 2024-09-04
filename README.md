@@ -58,6 +58,27 @@
 - p39_Numeros1al100
 - p40_Numeros100al1
 - p41_ProcesaCalificaciones
+- p42_TablaMultiplicar
+- p43_ConteoNumeros
+
+# Actividad 8 - Ejecución Repetitiva pt2
+- p44_ParesAscendente
+- p45_ImparesDescendente
+- p46_TablaConversión
+- p47_ConjeturaCollatz
+
+# Práctica 03 - while, do...while
+- p48_ImparesAscendente
+- p49_ParesDescendente
+- p50_ConversionTemperaturas
+- p51_SerieFibonaci
+
+# Actividad 9 - Ejecución Repetitiva pt3
+- p52_Numeros1aN
+- p53_NumerosNa1
+- p54_ArribaAbajo
+- p55_SumaParesImpares
+- p56_SumaPromedio
 
 Key shortcuts:
 - option + shift + flecha Abajo = Duplicar la linea actual hacia abajo
@@ -66,3 +87,9 @@ Key shortcuts:
 Código constante: 
 - System.out.print("\033[H\033[2J"); System.out.flush(); 
 (Elimina el texto de la terminal)
+
+Otras cosas:
+- %d para numeros enteros (int)
+- %.2f numeros con decimales (float)
+
+50-46
