@@ -17,3 +17,4 @@ def primo(n):
 n = int(input("Cuántos números primos quiéres?:  "))
 primo(n)
 
+hola hola hola
