@@ -80,6 +80,18 @@
 - p55_SumaParesImpares
 - p56_SumaPromedio
 
+# Actividad 10 - Ejecici+on Repetitiva pt4
+- p57_TablasMultiplicar
+- p58_Piramide
+- p59_FactorialNumeros
+- p60_SumaTerminos
+
+# Práctica 4 - Ejecución Repetitiva for
+- p61_SecuenciaNumeros1
+- p62_SecuenciaNumeros2
+- p63_SumaTerminos1
+- p64_SumaTerminos2
+
 Key shortcuts:
 - option + shift + flecha Abajo = Duplicar la linea actual hacia abajo
 - option + flechas = Mover libremente una linea
