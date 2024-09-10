@@ -92,6 +92,9 @@
 - p63_SumaTerminos1
 - p64_SumaTerminos2
 
+# Práctica 5 - Práctica de repaso 1er Parcial
+- p61_SistemaPapelería
+
 Key shortcuts:
 - option + shift + flecha Abajo = Duplicar la linea actual hacia abajo
 - option + flechas = Mover libremente una linea
@@ -104,4 +107,4 @@ Otras cosas:
 - %d para numeros enteros (int)
 - %.2f numeros con decimales (float)
 
-50-46
+
