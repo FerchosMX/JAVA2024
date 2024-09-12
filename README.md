@@ -95,6 +95,14 @@
 # Práctica 5 - Práctica de repaso 1er Parcial
 - p61_SistemaPapelería
 
+# Funciones y métodos
+- p66_PromedioNumeros
+- p67_ConversionTemperaturas
+- p68_SumaRango
+- p69_TablaMultiplicar
+- p70_CalificacionLetra
+
+
 Key shortcuts:
 - option + shift + flecha Abajo = Duplicar la linea actual hacia abajo
 - option + flechas = Mover libremente una linea
