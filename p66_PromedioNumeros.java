@@ -25,6 +25,7 @@ public class p66_PromedioNumeros {
 
        // System.out.println("El promedio es "+ Promedio(10, 30, 7));
 
+       
     }
     
 }

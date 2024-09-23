@@ -16,7 +16,6 @@ public class p74_Factorial {
         int n = new Scanner(System.in).nextInt();
 
         System.out.println("El factorial es "+Factorial(n));
-
     }
     
 }

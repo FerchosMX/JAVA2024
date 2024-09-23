@@ -102,6 +102,19 @@
 - p69_TablaMultiplicar
 - p70_CalificacionLetra
 
+# Funciones Parte 2
+- p71_MayorTresNumeros
+- p72_SumaDígitos
+- p73_SumaParesImpares
+- p74_Factorial
+- p75_CuadroCaracter
+
+# Arreglos Parte 2
+- p86_ArregloMostrar
+- p87_ArregloTemperaturas
+- p88_Aleatorios
+- p89_ArregloAleatorios
+
 
 Key shortcuts:
 - option + shift + flecha Abajo = Duplicar la linea actual hacia abajo
