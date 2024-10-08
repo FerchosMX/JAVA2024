@@ -23,16 +23,5 @@ public class App {
         System.out.println("Edad      : " + libro1.getAutor().getEdad());
         System.out.println("Correo    : " + libro1.getAutor().getCorreo());
         System.out.println(" \n" + libro1.toString());
-
-        Libro libro2 = new Libro("4356-43-46","Seguridad en Redes",450,new Autor("William Rodriguez",50,"william@hotmail.com"));
-
-        System.out.println("Datos del Libro 2: ");
-        System.out.println("Isbn      : " + libro2.getIsbn());
-        System.out.println("Nombre    : " + libro2.getNombre());
-        System.out.println("Precio    : " + libro2.getPrecio());
-        System.out.println("Autor     : " + libro2.getAutor().getNombre());
-        System.out.println("Edad      : " + libro2.getAutor().getEdad());
-        System.out.println("Correo    : " + libro2.getAutor().getCorreo());
-        System.out.println(" \n" + libro2.toString());
     }
 }

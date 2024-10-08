@@ -115,6 +115,39 @@
 - p88_Aleatorios
 - p89_ArregloAleatorios
 
+# Práctica 7 - Arreglos
+- p90_Temperaturas
+- p91_MayoresPromedio
+- p92_MayorMenor
+- p93_ParesImpares 
+
+# POO Clases y Objetos
+- p94_Empleado01
+- p95_Empleado02
+- p96_Empleado03
+- p97_Empleado04
+
+# Práctica 8 - POO Clases y Objetos
+- p98_Circulo
+- p99_Rectangulo
+- p100_Articulo 
+
+# POO - Composición
+- p101_TrabajoPersona
+- p102_AutorLibro
+- p103_ClienteFactura
+
+# Práctica 9 - POO Composción
+- p104_PuntoCirculo
+- p105_PuntoTriangulo
+
+# Herencia y Abstracción
+- p106_Persona
+- p107_Forma
+
+# Práctica 10 - POO Herencia y Abstracción
+- p108_Vehiculo
+- p109_FormaV2
 
 Key shortcuts:
 - option + shift + flecha Abajo = Duplicar la linea actual hacia abajo

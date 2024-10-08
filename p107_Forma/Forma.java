@@ -1,6 +1,6 @@
 package p107_Forma;
 
-public class Forma {
+public abstract class Forma {
     private String color;
 
     public Forma(String color) {
