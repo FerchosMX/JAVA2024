@@ -26,7 +26,7 @@ public class App {
             if(empleado.getSexo() =='H') h++;
             else if(empleado.getSexo()=='H')s++;
 
-            if(empleado.isCasado() c++; else s++);
+            if(empleado.isCasado()) c++; else s++;
         }
         System.out.println("Hombres: "+h);
         System.out.println("Mujeres: "+m);

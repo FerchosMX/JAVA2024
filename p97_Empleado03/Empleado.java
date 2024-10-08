@@ -48,10 +48,9 @@ public class Empleado {
         Casado = casado;
     }
 
-    public String toString();
-    
+    @Override
+    public String toString() {
+        return "Empleado [Nombre=" + Nombre + ", Edad=" + Edad + ", Sexo=" + Sexo + ", Casado=" + Casado + "]";
     }
 
-    
-    
 }
