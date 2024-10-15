@@ -1,6 +1,5 @@
 package p108_Vehiculo;
 
-public class Vehiculo {
+public class Camioneta {
     
 }
-    

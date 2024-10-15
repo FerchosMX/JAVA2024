@@ -42,6 +42,6 @@ public class App {
             System.out.println("Cliente Id     : "+factura.getCliente().getId());
             System.out.println("Cliente nombre : "+factura.getCliente().getNombre());
             System.out.println("Cliente Desc   : "+factura.getCliente().getDescuento());
+       }
     }
-}
 }
