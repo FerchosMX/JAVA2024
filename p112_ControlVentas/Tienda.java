@@ -43,6 +43,6 @@ public class Tienda {
     @Override
     public String toString() {
         return "Tienda [Nombre=" + Nombre + ", Propietario=" + Propietario + ", Domicilio=" + Domicilio + ", Clientes="
-                + Clientes.size() /* Size se usa para imprimir el tamaño */ + ", Total()=" + getTotal() + "]";
+                + Clientes.size() /* Size se usa para imprimir el tamaño */ + ", Total=" + getTotal() + "]";
     }
 }

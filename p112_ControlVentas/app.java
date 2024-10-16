@@ -15,7 +15,7 @@ public class app {
 
         mitienda.getClientes().get(1).agregarVenta(new VentaCrédito("Clavo", 2, 160.34, 2, 0.20));
         mitienda.getClientes().get(1).agregarVenta(new VentaCrédito("Cinta", 5, 71.34, 6, 0.20));
-        mitienda.getClientes().get(1).agregarVenta(new VentaCrédito("Pala", 10, 650.33, .20, "Taladro"));
+        mitienda.getClientes().get(1).agregarVenta(new VentaCrédito("Tornillo", 10, 650.33, 4, 0.20));
 
         mitienda.Reporte();
     }

@@ -33,7 +33,7 @@ public class Cliente {
 
     public String toString() {
         return "Cliente [Nombre = " + Nombre + ", Domicilio = " + Domicilio + ", Correo = " + Correo + ", Ventas = " + Ventas.size()
-                + ", Total() = " + getTotal() + "]";
+                + ", Total = " + getTotal() + "]";
     }
 
     

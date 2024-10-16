@@ -15,13 +15,9 @@ public class VentaCrédito extends Venta{
         return Total;
     }
 
-    @Override
     public String toString() {
-        return "VentaCrédito [Meses=" + Meses + ", Intereses=" + Intereses + ", Total = " + getTotalVenta()
+        return "VentaCrédito [Meses = " + Meses + ", Intereses = " + Intereses + ", Total = " + getTotalVenta()
                 + "]";
     }
-
-
-
     
 }

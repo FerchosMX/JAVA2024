@@ -13,7 +13,7 @@ public abstract class Venta {
         Total = Cantidad * Precio;
     }
     public abstract double getTotalVenta();
-    @Override
+    
     public String toString() {
         return "Venta [Artículo = " + Artículo + ", Cantidad = " + Cantidad + ", Precio = " + Precio + ", Total = " + Total
                 + "]";
