@@ -36,11 +36,10 @@ public class Tienda {
             for (Venta venta : cliente.getVentas()) {
                 System.out.println(venta);
             }
-        System.out.println("\nn");
+        System.out.println("\n");
         }
         
     }
-    @Override
     public String toString() {
         return "Tienda [Nombre=" + Nombre + ", Propietario=" + Propietario + ", Domicilio=" + Domicilio + ", Clientes="
                 + Clientes.size() /* Size se usa para imprimir el tamaño */ + ", Total=" + getTotal() + "]";

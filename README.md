@@ -109,7 +109,14 @@
 - p74_Factorial
 - p75_CuadroCaracter
 
-# Arreglos Parte 2
+# Actividad 13 - Arreglos Parte 3 *** ME FALTAN ESTOS, ESTÁN EN LA PLATAFORMA
+- p81_InicializaArregloNumeros
+- p82_InicializaArregloCadenas
+- p83_InicializaNombresEdades
+- p84_LeerArregloCalificaciones
+- p85_NombresEdades
+
+# Actividad 14 - Arreglos Parte 2
 - p86_ArregloMostrar
 - p87_ArregloTemperaturas
 - p88_Aleatorios
@@ -121,7 +128,7 @@
 - p92_MayorMenor
 - p93_ParesImpares 
 
-# POO Clases y Objetos
+# Actividad 15 - POO Clases y Objetos
 - p94_Empleado01
 - p95_Empleado02
 - p96_Empleado03
@@ -132,7 +139,7 @@
 - p99_Rectangulo
 - p100_Articulo 
 
-# POO - Composición
+# Actividad 16 - POO Composición
 - p101_TrabajoPersona
 - p102_AutorLibro
 - p103_ClienteFactura
@@ -141,7 +148,7 @@
 - p104_PuntoCirculo
 - p105_PuntoTriangulo
 
-# Herencia y Abstracción
+# Actividad 17 - Herencia y Abstracción
 - p106_Persona
 - p107_Forma
 
@@ -149,7 +156,16 @@
 - p108_Vehiculo
 - p109_FormaV2
 
-# 
+# Actividad 18 - POO Ej. Cuenta Bancaria V1
+- p110_CuentaBancariaV1
+
+# Actividad 19 - POO Ej. Cuenta Bancaria V2
+- p111_CuentaBancariaV2
+
+# Práctica 11 - Repaso Examen Parcial
+- p112_ControlVentas
+
+# Práctica 12 - 
 
 Key shortcuts:
 - option + shift + flecha Abajo = Duplicar la linea actual hacia abajo
