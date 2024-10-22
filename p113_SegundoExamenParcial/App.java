@@ -2,7 +2,7 @@ package p113_SegundoExamenParcial;
 
 public class App {
     public static void main(String[] args) {
-        System.out.print("\033[H\033[2J");System.out.flush();
+        System.out.print("\033[H\033[2J");
         Equipo miequipo = new Equipo("Limones", "Torneo la Bombonera");
     
         miequipo.agregarJugador(new JugadorEntrenador("Francisco Zapeda", 'H', "Entrenador Principal", 1000, 8,1));
