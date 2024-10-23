@@ -1,4 +1,4 @@
-package p116.java;
+package p116_Juego;
 
 public class App {
     public static void main(String[] args) {
@@ -8,10 +8,10 @@ public class App {
         System.out.print("\033[H\033[2J");
         miDados.iniciar();
         miDados.jugar();
-        miDados.finazliar();
+        miDados.finalizar();
         
-        juegoAdivina miAdivina = new JuegoAdivina();
-        miAdivina.Iniciar();
+        JuegoAdivina miAdivina = new JuegoAdivina();
+        miAdivina.iniciar();
         miAdivina.jugar();
         miAdivina.finalizar();
     }

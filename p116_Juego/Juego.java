@@ -1,4 +1,4 @@
-package p116.java;
+package p116_Juego;
 
 public interface Juego {
     public void iniciar();
