@@ -167,6 +167,8 @@
 
 # Práctica 12 - 
 
+#
+
 Key shortcuts:
 - option + shift + flecha Abajo = Duplicar la linea actual hacia abajo
 - option + flechas = Mover libremente una linea
