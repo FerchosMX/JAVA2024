@@ -12,10 +12,13 @@ public class Util {
         return datos;
     }
     public static void serializarDatos(String archivo, ArrayList<Estudiante> datos) {
-        FileOutputStream arch = new FileOutputStream(archivo);
-        ObjectOutputStream fpersonas = new ObjectOutputStream(arch);
-        fpersonas.writeObject(datos);
-        fpersonas.close();
+        try(FileOutputStream arch = new FileOutputStream(archivo);
+            ObjectOutputStream fpersonas = new ObjectOutputStream(arch)) { 
+            fpersonas.writeObject(datos);
+            fpersonas.close();
+        } catch(IOException e){
+            System.err.println("Error al serializar los datos: " + e.getMessage());
+        }
     }
     public static ArrayList<Estudiante> desSerializarDatos(String archivo) throws IOException, ClassNotFoundException {
         ArrayList<Estudiante> datos;

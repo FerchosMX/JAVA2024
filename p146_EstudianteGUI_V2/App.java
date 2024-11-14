@@ -138,7 +138,7 @@ public class App extends JFrame implements ActionListener{
     public void limpiarCampos() {
         for (Component cp : pnlDatos.getComponents())
             if(cp instanceof JTextField);
-                ((JTextField)cp).setText("");
+                ((JTextField) cp).setText("");
 
     }
     public void guardarCampos() {
